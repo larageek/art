@@ -4,9 +4,9 @@ This repository contains all art related files for "LaraGeek".
 
 ## Colors
 
-* **red** ![#ff4538](https://via.placeholder.com/15/ff4538/000000?text=+) `#ff4538`
-* **gray** ![#333333](https://via.placeholder.com/15/333333/000000?text=+) `#333333`
-* **white** ![#ffffff](https://via.placeholder.com/15/ffffff/000000?text=+) `#ffffff`
+* ![#ff4538](https://via.placeholder.com/15/ff4538/000000?text=+) `#ff4538` **red**
+* ![#333333](https://via.placeholder.com/15/333333/000000?text=+) `#333333` **gray**
+* ![#ffffff](https://via.placeholder.com/15/ffffff/000000?text=+) `#ffffff` **white**
 
 ## Credits
 
