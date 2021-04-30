@@ -2,6 +2,12 @@
 
 This repository contains all art related files for "LaraGeek".
 
+## Colors
+
+* **red** `#ff4538`
+* **gray** `#333333`
+* *white** `#ffffff`
+
 ## Credits
 
 * **Eyeglasses** [Freepik](https://www.flaticon.com/free-icon/eyeglasses_3721763)
