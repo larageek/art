@@ -1,3 +1,5 @@
+![LaraGeek](./open-graph/larageek-brand-only.png)
+
 # LaraGeek Art
 
 This repository contains all art related files for "LaraGeek".
